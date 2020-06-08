@@ -1,0 +1,74 @@
+body{
+    background-color: whitesmoke;
+    scroll-behavior: smooth;
+}
+.headertext{
+    margin: 0;
+    padding: 0;
+    font-size: 30px;
+}
+
+.mainhome{
+   
+    color: white;
+    height: 100vh;
+}
+.margin{
+    margin: 10px;
+}
+.fa-phone{
+    font-size: 4em;
+    color: rgb(37, 163, 37);
+}
+.fa-envelope{
+    font-size: 4em;
+    color: rgb(241, 30, 30);
+}
+
+.social-links{
+    display: flex;
+    
+}
+.social-links li{
+    list-style: none;
+    margin-left: 9px;
+    margin-right: 9px;
+}
+.fb-link{
+    color:rgb(66, 66, 206) ;
+    border-color:rgb(66, 66, 206);
+}
+.fb-link:hover{
+    background-color:rgb(66, 66, 206);
+    border-color: rgb(66, 66, 206);
+}
+.insta-link{
+    color: rgb(193,53,132);
+    border-color:rgb(193,53,132) ;
+}
+.insta-link:hover{
+    background-color: rgb(193,53,132);
+    border-color: rgb(193,53,132);
+}
+.twitter-link{
+    color: rgb(122, 214, 226);
+    border-color: rgb(122, 214, 226);
+}
+.twitter-link:hover{
+    border-color: rgb(122, 214, 226);
+    background-color: rgb(122, 214, 226);
+}
+.mydetails{
+    line-height: 30px;
+}
+.active{
+    border-bottom: solid;
+    border-width: 2px;
+  
+
+}
+.imgcontainer{
+    padding: 5px;
+    overflow: hidden;
+    height: 300px;
+}
